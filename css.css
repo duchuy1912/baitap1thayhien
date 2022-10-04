@@ -1,0 +1,13 @@
+.img1{
+    width: 300px;
+    height: auto;
+}
+html{
+    scroll-behavior:smooth;
+}
+.narbar{
+    border-bottom: 1px solid black;
+}
+.phancuoi{
+    border-top: 1px #ccc solid;
+}
